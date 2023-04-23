@@ -366,7 +366,6 @@ img {
     height: 88px;
     border: 1px solid var(--light-slate);
     border-radius: 4px;
-    color: var(--light-slate);
 }
 
 .cust-item:hover,
@@ -393,7 +392,6 @@ img {
 
 .text-footer {
     width: 264px;
-    margin-top: 16px;
     color: var(--cloud);
 }
 
@@ -417,7 +415,6 @@ img {
 .foot-social {
     display: flex;
     align-items: baseline;
-    gap: 120px;
 }
 
 .foot-social-title {
